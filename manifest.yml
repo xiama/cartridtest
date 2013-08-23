@@ -116,5 +116,5 @@ Version-Overrides:
 Install-Build-Required: false
 
 #Source-Url: file:///root/pythoncartri/
-Source-Url: https://github.com/xiama/cartridtest/raw/master/cucushift.zip
+Source-Url: https://github.com/xiama/cartridtest/raw/master/pyhton.zip
 #Source-Url: git@github.com:xiama/pythoncartri.git #wron configure
