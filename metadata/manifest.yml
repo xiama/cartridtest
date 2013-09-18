@@ -49,4 +49,10 @@ Endpoints:
     Private-Port:      3306
     Public-Port-Name:  DB_PROXY_PORT
 
-Source-Url: https://github.com/wsun1/mongov2cart.git
+Install-Build-Required: false
+
+Source-Url: https://github.com/xiama/mysqlcart.git
+#Source-Url: https://raw.github.com/xiama/mysqlcart/master/mysql.tar
+#Source-Url: https://raw.github.com/xiama/mysqlcart/master/mysql.zip
+#Source-Url: https://raw.github.com/xiama/mysqlcart/master/mysql.tar.gz
+
