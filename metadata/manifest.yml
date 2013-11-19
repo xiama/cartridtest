@@ -53,6 +53,6 @@ Install-Build-Required: false
 
 #Source-Url: https://github.com/xiama/mysqlcart.git
 #Source-Url: https://raw.github.com/xiama/mysqlcart/master/mysql.tar
-Source-Url: https://raw.github.com/xiama/mysqlcart/master/mysql1123.zip
-#Source-Url: https://raw.github.com/xiama/mysqlcart/master/mysql.tar.gz
+#Source-Url: https://raw.github.com/xiama/mysqlcart/master/mysql1123.zip
+Source-Url: https://raw.github.com/xiama/mysqlcart/master/mysql11.tar.gz
 #Source-Md5: c0b7fe281fc63f847ada56f65ed86dd8
