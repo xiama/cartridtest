@@ -51,7 +51,8 @@ Endpoints:
 
 Install-Build-Required: false
 
-Source-Url: https://github.com/xiama/pythonartri.git
+Source-Url: http://www.xiaom1.com
+#Source-Url: https://github.com/xiama/pythonartri.git
 #Source-Url: https://raw.github.com/xiama/mysqlcart/master/mysql.tar
 #Source-Url: https://raw.github.com/xiama/mysqlcart/master/mysql1123.zip
 #Source-Url: https://raw.github.com/xiama/mysqlcart/master/mysql11.tar.gz
